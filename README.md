@@ -2,6 +2,7 @@
 
 
 ### Manual
+The current User & Construction manual is provided as a PDF document
 
 [1.0] Production #1 kits 
 * Added C5 reference
