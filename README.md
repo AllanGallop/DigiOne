@@ -15,6 +15,20 @@ The current User & Construction manual is provided as a PDF document
 * User and Construction manuals combined
 * Changed values to suite availabe stock at retailer
 
+
+### Radio Connection
+The connection pads labelled as 'RADIO' on the board serve to interface DigiOne with your radio, some connections are polarised!
+
+
+|  PIN |         USE         |              Radio              |
+|:----:|:-------------------:|:-------------------------------:|
+| PTT- | PTT Ground          | Ground / Shield                 |
+| PTT+ | PTT                 | PTT                             |
+| OUT- | Audio Output Ground | Data / FSK Input Ground         |
+| OUT+ | Audio Output Signal | Data / FSK Input Signal         |
+| IN-  | Audio Input Ground  | Data / FSK / AF   Output Ground |
+| IN+  | Audio Input Signal  | Data / FSK / AF Output Signal   |
+
 ### Issues?
 
 Check out the [Wiki](https://github.com/AllanGallop/DigiOne/wiki)
